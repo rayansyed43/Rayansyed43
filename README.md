@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Advance ML models**
 
-- 📫 How to reach me **rayansyed60@gmail.com**
+- 📫 How to reach me you ask? **rayansyed60@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
