@@ -1,4 +1,4 @@
-[![MasterHead](https://images2.imgbox.com/71/7d/rh3wAQrR_o.png?download=true)](https://rayansyed43.io)
+[![MasterHead](https://images2.imgbox.com/71/7d/rh3wAQrR_o.png?download=true)](https://github.com/rayansyed43)
 <h1 align="center">Hi 👋, I'm Syed Rayan</h1>
 <h3 align="center">Data Science Enthusiast from Hyderabad</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/74pZ.gif")>
@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayansyed43&label=Profile%20views&color=0e75b6&style=flat" alt="rayansyed43" /> </p>
 
-- 🔭 I’m currently working on **Some Data Visualization Project**
+- 🔭 I’m currently planning to work on a **Data Visualization Project**
 
 - 🤝 I’m looking for help with **Advance ML models**
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/syed-rayan-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-rayan-" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/syed-rayan-16a5911a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-rayan-" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
