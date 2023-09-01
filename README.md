@@ -8,6 +8,8 @@
 
 - 🔭 I’m currently planning to work on a **Data Visualization Project**
 
+- Check out my portfolio website - https://rayansyed43.github.io/portfolio-website/
+
 - 🤝 I’m looking for help with **Advance ML models**
 
 - 📫 How to reach me you ask? **rayansyed60@gmail.com**
