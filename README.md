@@ -1,5 +1,5 @@
 [![MasterHead](https://images2.imgbox.com/71/7d/rh3wAQrR_o.png?download=true)](https://github.com/rayansyed43)
-<h1 align="center">Hi 👋, I'm Syed Rayan</h1>
+<h1 align="center">Hey, I'm Syed Rayan</h1>
 <h3 align="center">Data Science Enthusiast from Hyderabad</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/74pZ.gif")>
 
